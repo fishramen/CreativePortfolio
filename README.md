@@ -15,6 +15,11 @@ For this revision, I decided to make the output more visually interesting. To do
 
 ## Novel
 
+For this revison, I decided to add page numbers and chapters. This change is also simple but makes the readability of the final project much smoother. 
+
+
+
+![This is an image](https://i.ibb.co/dGkwwyg/Screen-Shot-2021-12-10-at-4-27-55-PM.png)
 
 
 ## Screensaver
