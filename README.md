@@ -15,7 +15,7 @@ For this revision, I decided to make the output more visually interesting. To do
 
 ## Novel
 
-For this revison, I decided to add page numbers and chapters. This change is also simple but makes the readability of the final project much smoother. 
+For this revison, I decided to add page numbers and chapters. This change is also simple but makes the readability of the final project much smoother. To accomplish this I used the chapter setup code in the discord. 
 
 
 
